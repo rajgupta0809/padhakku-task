@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/padhakku-task/static/css/main.b7c805ca.chunk.css",
+    "main.js": "/padhakku-task/static/js/main.9f31d506.chunk.js",
+    "main.js.map": "/padhakku-task/static/js/main.9f31d506.chunk.js.map",
+    "runtime-main.js": "/padhakku-task/static/js/runtime-main.66ea1b6f.js",
+    "runtime-main.js.map": "/padhakku-task/static/js/runtime-main.66ea1b6f.js.map",
+    "static/js/2.5695f28d.chunk.js": "/padhakku-task/static/js/2.5695f28d.chunk.js",
+    "static/js/2.5695f28d.chunk.js.map": "/padhakku-task/static/js/2.5695f28d.chunk.js.map",
+    "index.html": "/padhakku-task/index.html",
+    "static/css/main.b7c805ca.chunk.css.map": "/padhakku-task/static/css/main.b7c805ca.chunk.css.map",
+    "static/js/2.5695f28d.chunk.js.LICENSE.txt": "/padhakku-task/static/js/2.5695f28d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66ea1b6f.js",
+    "static/js/2.5695f28d.chunk.js",
+    "static/css/main.b7c805ca.chunk.css",
+    "static/js/main.9f31d506.chunk.js"
+  ]
+}
